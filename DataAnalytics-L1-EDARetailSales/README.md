@@ -39,3 +39,9 @@ Sample Superstore Dataset
 - Best Selling Products
 - Profit Impact of Discounts
 
+## Business Recommendations
+
+- Focus on profitable regions
+- Optimize discounts
+- Improve product strategy
+
