@@ -32,4 +32,10 @@ Sample Superstore Dataset
 - Product Analysis
 - Discount vs Profit Analysis
 - Correlation Analysis
+## Key Findings
+
+- Highest Sales Region
+- Most Profitable Category
+- Best Selling Products
+- Profit Impact of Discounts
 
