@@ -22,3 +22,14 @@ Project: Exploratory Data Analysis (EDA) on Retail Sales Data
 
 Sample Superstore Dataset
 
+## Analysis Performed
+
+- Data Cleaning
+- Descriptive Statistics
+- Monthly Sales Trend
+- Category Analysis
+- Regional Analysis
+- Product Analysis
+- Discount vs Profit Analysis
+- Correlation Analysis
+
