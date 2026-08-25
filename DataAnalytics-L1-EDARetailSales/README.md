@@ -18,3 +18,7 @@ Project: Exploratory Data Analysis (EDA) on Retail Sales Data
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+## Dataset
+
+Sample Superstore Dataset
+
