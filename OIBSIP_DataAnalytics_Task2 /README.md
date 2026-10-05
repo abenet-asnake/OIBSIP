@@ -53,17 +53,6 @@ Mall Customers Dataset
 - Improve engagement with low-spending customers.
 - Develop personalized offers.
 
-## Project Structure
 
-```text
-data/
-notebooks/
-images/
-reports/
-README.md
-requirements.txt
-```
-
-## Author
 
 Abenet Asnake Tesfaye
