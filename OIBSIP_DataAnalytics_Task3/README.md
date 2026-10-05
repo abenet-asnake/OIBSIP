@@ -53,12 +53,7 @@ Advertising Dataset
 - Reevaluate newspaper advertising budgets.
 - Use data-driven strategies for future campaigns.
 
-## Project Structure
 
-data/
-notebooks/
-images/
-reports/
 
 ## Author
 
